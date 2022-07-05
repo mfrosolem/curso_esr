@@ -1,0 +1,11 @@
+.metadata
+algafood-api/.settings
+algafood-api/target
+algafood-api/.classpath
+algafood-api/.factorypath
+algafood-api/.project
+algafood-api/HELP.md
+algafood-api/.mvn
+algafood-api/mvnw
+algafood-api/mvnw.cmd
+algafood-api/.gitignore
